@@ -1,2 +1,2 @@
 # stock-market-charting
-Training at Job
+Training at Job : Case Study
